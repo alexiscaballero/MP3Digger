@@ -1,0 +1,14 @@
+Cosas que hacer:
+================
++Probar Selector de Fuentes
++Corregir Error Descarga (Exception Sin Mensaje)
++Descarga Finalizada-->Agregar Descarga a Biblioteca
++Pasar a MB Columna de Tamaño en Descargas
++Investigar Aumentar Velocidad de "Actualizar Biblioteca"
++Plugin VMusice.net
++Theme WebLaF
++Theme NimROD
++Synthetica Themes
++Columna "Servidor" Con Icono en Busqueda
++Biblioteca Filtrada-->Solo reproducir canciones dentro del filtro
++Color azul resaltado en texto busqueda
